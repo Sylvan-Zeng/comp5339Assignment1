@@ -1,0 +1,305 @@
+measure_code,parent_description,description,abs_reference_year,value,state,measure_name,source_file
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2021,5560.0,ACT,business_entries_count,abs_ste_8_act.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2022,6591.0,ACT,business_entries_count,abs_ste_8_act.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2023,6207.0,ACT,business_entries_count,abs_ste_8_act.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2024,6501.0,ACT,business_entries_count,abs_ste_8_act.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2021,3839.0,ACT,business_exits_count,abs_ste_8_act.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2022,4438.0,ACT,business_exits_count,abs_ste_8_act.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2023,4962.0,ACT,business_exits_count,abs_ste_8_act.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2024,5138.0,ACT,business_exits_count,abs_ste_8_act.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2020,82.0,ACT,utilities_businesses_count,abs_ste_8_act.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2021,97.0,ACT,utilities_businesses_count,abs_ste_8_act.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2022,120.0,ACT,utilities_businesses_count,abs_ste_8_act.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2023,127.0,ACT,utilities_businesses_count,abs_ste_8_act.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2024,112.0,ACT,utilities_businesses_count,abs_ste_8_act.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2020,29724.0,ACT,total_businesses_count,abs_ste_8_act.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2021,31490.0,ACT,total_businesses_count,abs_ste_8_act.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2022,33813.0,ACT,total_businesses_count,abs_ste_8_act.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2023,35086.0,ACT,total_businesses_count,abs_ste_8_act.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2024,36316.0,ACT,total_businesses_count,abs_ste_8_act.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2018,66350.0,ACT,median_employee_income_aud,abs_ste_8_act.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2019,68333.0,ACT,median_employee_income_aud,abs_ste_8_act.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2020,70509.0,ACT,median_employee_income_aud,abs_ste_8_act.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2021,73538.0,ACT,median_employee_income_aud,abs_ste_8_act.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2022,75675.0,ACT,median_employee_income_aud,abs_ste_8_act.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2018,72998.0,ACT,mean_employee_income_aud,abs_ste_8_act.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2019,75131.0,ACT,mean_employee_income_aud,abs_ste_8_act.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2020,77876.0,ACT,mean_employee_income_aud,abs_ste_8_act.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2021,80960.0,ACT,mean_employee_income_aud,abs_ste_8_act.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2022,83505.0,ACT,mean_employee_income_aud,abs_ste_8_act.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2018,17837.5,ACT,total_employee_income_million_aud,abs_ste_8_act.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2019,18913.9,ACT,total_employee_income_million_aud,abs_ste_8_act.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2020,20073.9,ACT,total_employee_income_million_aud,abs_ste_8_act.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2021,21262.6,ACT,total_employee_income_million_aud,abs_ste_8_act.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2022,22736.4,ACT,total_employee_income_million_aud,abs_ste_8_act.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2018,244357.0,ACT,employee_income_earners_count,abs_ste_8_act.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2019,251745.0,ACT,employee_income_earners_count,abs_ste_8_act.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2020,257766.0,ACT,employee_income_earners_count,abs_ste_8_act.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2021,262630.0,ACT,employee_income_earners_count,abs_ste_8_act.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2022,272276.0,ACT,employee_income_earners_count,abs_ste_8_act.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2021,128251.0,NSW,business_entries_count,abs_ste_1_nsw.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2022,143465.0,NSW,business_entries_count,abs_ste_1_nsw.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2023,138094.0,NSW,business_entries_count,abs_ste_1_nsw.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2024,149226.0,NSW,business_entries_count,abs_ste_1_nsw.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2021,96444.0,NSW,business_exits_count,abs_ste_1_nsw.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2022,105636.0,NSW,business_exits_count,abs_ste_1_nsw.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2023,128785.0,NSW,business_exits_count,abs_ste_1_nsw.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2024,122778.0,NSW,business_exits_count,abs_ste_1_nsw.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2020,2466.0,NSW,utilities_businesses_count,abs_ste_1_nsw.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2021,2606.0,NSW,utilities_businesses_count,abs_ste_1_nsw.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2022,2739.0,NSW,utilities_businesses_count,abs_ste_1_nsw.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2023,2787.0,NSW,utilities_businesses_count,abs_ste_1_nsw.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2024,2835.0,NSW,utilities_businesses_count,abs_ste_1_nsw.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2020,786246.0,NSW,total_businesses_count,abs_ste_1_nsw.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2021,817603.0,NSW,total_businesses_count,abs_ste_1_nsw.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2022,854727.0,NSW,total_businesses_count,abs_ste_1_nsw.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2023,870951.0,NSW,total_businesses_count,abs_ste_1_nsw.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2024,896560.0,NSW,total_businesses_count,abs_ste_1_nsw.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2018,51411.0,NSW,median_employee_income_aud,abs_ste_1_nsw.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2019,53104.0,NSW,median_employee_income_aud,abs_ste_1_nsw.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2020,54989.0,NSW,median_employee_income_aud,abs_ste_1_nsw.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2021,57891.0,NSW,median_employee_income_aud,abs_ste_1_nsw.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2022,58972.0,NSW,median_employee_income_aud,abs_ste_1_nsw.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2018,64509.0,NSW,mean_employee_income_aud,abs_ste_1_nsw.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2019,66377.0,NSW,mean_employee_income_aud,abs_ste_1_nsw.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2020,68690.0,NSW,mean_employee_income_aud,abs_ste_1_nsw.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2021,71848.0,NSW,mean_employee_income_aud,abs_ste_1_nsw.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2022,74232.0,NSW,mean_employee_income_aud,abs_ste_1_nsw.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2018,262837.0,NSW,total_employee_income_million_aud,abs_ste_1_nsw.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2019,276433.8,NSW,total_employee_income_million_aud,abs_ste_1_nsw.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2020,288047.0,NSW,total_employee_income_million_aud,abs_ste_1_nsw.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2021,301434.4,NSW,total_employee_income_million_aud,abs_ste_1_nsw.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2022,321298.7,NSW,total_employee_income_million_aud,abs_ste_1_nsw.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2018,4074444.0,NSW,employee_income_earners_count,abs_ste_1_nsw.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2019,4164609.0,NSW,employee_income_earners_count,abs_ste_1_nsw.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2020,4193441.0,NSW,employee_income_earners_count,abs_ste_1_nsw.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2021,4195471.0,NSW,employee_income_earners_count,abs_ste_1_nsw.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2022,4328284.0,NSW,employee_income_earners_count,abs_ste_1_nsw.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2021,2259.0,NT,business_entries_count,abs_ste_7_nt.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2022,2763.0,NT,business_entries_count,abs_ste_7_nt.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2023,2672.0,NT,business_entries_count,abs_ste_7_nt.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2024,2743.0,NT,business_entries_count,abs_ste_7_nt.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2021,1800.0,NT,business_exits_count,abs_ste_7_nt.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2022,1920.0,NT,business_exits_count,abs_ste_7_nt.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2023,2259.0,NT,business_exits_count,abs_ste_7_nt.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2024,2348.0,NT,business_exits_count,abs_ste_7_nt.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2020,54.0,NT,utilities_businesses_count,abs_ste_7_nt.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2021,58.0,NT,utilities_businesses_count,abs_ste_7_nt.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2022,63.0,NT,utilities_businesses_count,abs_ste_7_nt.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2023,58.0,NT,utilities_businesses_count,abs_ste_7_nt.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2024,58.0,NT,utilities_businesses_count,abs_ste_7_nt.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2020,14547.0,NT,total_businesses_count,abs_ste_7_nt.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2021,14943.0,NT,total_businesses_count,abs_ste_7_nt.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2022,15731.0,NT,total_businesses_count,abs_ste_7_nt.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2023,16105.0,NT,total_businesses_count,abs_ste_7_nt.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2024,16380.0,NT,total_businesses_count,abs_ste_7_nt.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2018,57858.0,NT,median_employee_income_aud,abs_ste_7_nt.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2019,59206.0,NT,median_employee_income_aud,abs_ste_7_nt.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2020,60000.0,NT,median_employee_income_aud,abs_ste_7_nt.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2021,63614.0,NT,median_employee_income_aud,abs_ste_7_nt.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2022,66118.0,NT,median_employee_income_aud,abs_ste_7_nt.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2018,66503.0,NT,mean_employee_income_aud,abs_ste_7_nt.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2019,66271.0,NT,mean_employee_income_aud,abs_ste_7_nt.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2020,66993.0,NT,mean_employee_income_aud,abs_ste_7_nt.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2021,69813.0,NT,mean_employee_income_aud,abs_ste_7_nt.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2022,72175.0,NT,mean_employee_income_aud,abs_ste_7_nt.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2018,8891.5,NT,total_employee_income_million_aud,abs_ste_7_nt.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2019,8709.7,NT,total_employee_income_million_aud,abs_ste_7_nt.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2020,8726.4,NT,total_employee_income_million_aud,abs_ste_7_nt.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2021,9123.6,NT,total_employee_income_million_aud,abs_ste_7_nt.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2022,9706.8,NT,total_employee_income_million_aud,abs_ste_7_nt.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2018,133698.0,NT,employee_income_earners_count,abs_ste_7_nt.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2019,131421.0,NT,employee_income_earners_count,abs_ste_7_nt.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2020,130258.0,NT,employee_income_earners_count,abs_ste_7_nt.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2021,130686.0,NT,employee_income_earners_count,abs_ste_7_nt.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2022,134490.0,NT,employee_income_earners_count,abs_ste_7_nt.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2021,69333.0,QLD,business_entries_count,abs_ste_3_qld.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2022,79509.0,QLD,business_entries_count,abs_ste_3_qld.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2023,78605.0,QLD,business_entries_count,abs_ste_3_qld.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2024,80839.0,QLD,business_entries_count,abs_ste_3_qld.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2021,53450.0,QLD,business_exits_count,abs_ste_3_qld.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2022,59405.0,QLD,business_exits_count,abs_ste_3_qld.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2023,69394.0,QLD,business_exits_count,abs_ste_3_qld.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2024,68816.0,QLD,business_exits_count,abs_ste_3_qld.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2020,1400.0,QLD,utilities_businesses_count,abs_ste_3_qld.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2021,1451.0,QLD,utilities_businesses_count,abs_ste_3_qld.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2022,1530.0,QLD,utilities_businesses_count,abs_ste_3_qld.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2023,1601.0,QLD,utilities_businesses_count,abs_ste_3_qld.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2024,1632.0,QLD,utilities_businesses_count,abs_ste_3_qld.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2020,443911.0,QLD,total_businesses_count,abs_ste_3_qld.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2021,460813.0,QLD,total_businesses_count,abs_ste_3_qld.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2022,482302.0,QLD,total_businesses_count,abs_ste_3_qld.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2023,497025.0,QLD,total_businesses_count,abs_ste_3_qld.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2024,510444.0,QLD,total_businesses_count,abs_ste_3_qld.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2018,49282.0,QLD,median_employee_income_aud,abs_ste_3_qld.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2019,50776.0,QLD,median_employee_income_aud,abs_ste_3_qld.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2020,52137.0,QLD,median_employee_income_aud,abs_ste_3_qld.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2021,54414.0,QLD,median_employee_income_aud,abs_ste_3_qld.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2022,56569.0,QLD,median_employee_income_aud,abs_ste_3_qld.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2018,58745.0,QLD,mean_employee_income_aud,abs_ste_3_qld.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2019,60307.0,QLD,mean_employee_income_aud,abs_ste_3_qld.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2020,62160.0,QLD,mean_employee_income_aud,abs_ste_3_qld.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2021,64570.0,QLD,mean_employee_income_aud,abs_ste_3_qld.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2022,67160.0,QLD,mean_employee_income_aud,abs_ste_3_qld.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2018,151211.4,QLD,total_employee_income_million_aud,abs_ste_3_qld.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2019,158995.7,QLD,total_employee_income_million_aud,abs_ste_3_qld.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2020,166110.1,QLD,total_employee_income_million_aud,abs_ste_3_qld.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2021,175337.7,QLD,total_employee_income_million_aud,abs_ste_3_qld.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2022,191314.6,QLD,total_employee_income_million_aud,abs_ste_3_qld.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2018,2574042.0,QLD,employee_income_earners_count,abs_ste_3_qld.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2019,2636456.0,QLD,employee_income_earners_count,abs_ste_3_qld.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2020,2672285.0,QLD,employee_income_earners_count,abs_ste_3_qld.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2021,2715480.0,QLD,employee_income_earners_count,abs_ste_3_qld.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2022,2848631.0,QLD,employee_income_earners_count,abs_ste_3_qld.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2021,19690.0,SA,business_entries_count,abs_ste_4_sa.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2022,23403.0,SA,business_entries_count,abs_ste_4_sa.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2023,22648.0,SA,business_entries_count,abs_ste_4_sa.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2024,24937.0,SA,business_entries_count,abs_ste_4_sa.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2021,15718.0,SA,business_exits_count,abs_ste_4_sa.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2022,16927.0,SA,business_exits_count,abs_ste_4_sa.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2023,21240.0,SA,business_exits_count,abs_ste_4_sa.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2024,20081.0,SA,business_exits_count,abs_ste_4_sa.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2020,581.0,SA,utilities_businesses_count,abs_ste_4_sa.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2021,599.0,SA,utilities_businesses_count,abs_ste_4_sa.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2022,617.0,SA,utilities_businesses_count,abs_ste_4_sa.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2023,616.0,SA,utilities_businesses_count,abs_ste_4_sa.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2024,639.0,SA,utilities_businesses_count,abs_ste_4_sa.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2020,145383.0,SA,total_businesses_count,abs_ste_4_sa.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2021,149462.0,SA,total_businesses_count,abs_ste_4_sa.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2022,156131.0,SA,total_businesses_count,abs_ste_4_sa.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2023,159604.0,SA,total_businesses_count,abs_ste_4_sa.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2024,164454.0,SA,total_businesses_count,abs_ste_4_sa.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2018,48923.0,SA,median_employee_income_aud,abs_ste_4_sa.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2019,50403.0,SA,median_employee_income_aud,abs_ste_4_sa.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2020,51590.0,SA,median_employee_income_aud,abs_ste_4_sa.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2021,53609.0,SA,median_employee_income_aud,abs_ste_4_sa.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2022,55407.0,SA,median_employee_income_aud,abs_ste_4_sa.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2018,55825.0,SA,mean_employee_income_aud,abs_ste_4_sa.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2019,57333.0,SA,mean_employee_income_aud,abs_ste_4_sa.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2020,59036.0,SA,mean_employee_income_aud,abs_ste_4_sa.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2021,61072.0,SA,mean_employee_income_aud,abs_ste_4_sa.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2022,63219.0,SA,mean_employee_income_aud,abs_ste_4_sa.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2018,46585.0,SA,total_employee_income_million_aud,abs_ste_4_sa.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2019,48762.2,SA,total_employee_income_million_aud,abs_ste_4_sa.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2020,50807.7,SA,total_employee_income_million_aud,abs_ste_4_sa.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2021,53633.4,SA,total_employee_income_million_aud,abs_ste_4_sa.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2022,58311.8,SA,total_employee_income_million_aud,abs_ste_4_sa.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2018,834485.0,SA,employee_income_earners_count,abs_ste_4_sa.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2019,850510.0,SA,employee_income_earners_count,abs_ste_4_sa.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2020,860617.0,SA,employee_income_earners_count,abs_ste_4_sa.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2021,878203.0,SA,employee_income_earners_count,abs_ste_4_sa.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2022,922381.0,SA,employee_income_earners_count,abs_ste_4_sa.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2021,5350.0,TAS,business_entries_count,abs_ste_6_tas.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2022,6155.0,TAS,business_entries_count,abs_ste_6_tas.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2023,5994.0,TAS,business_entries_count,abs_ste_6_tas.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2024,6056.0,TAS,business_entries_count,abs_ste_6_tas.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2021,4102.0,TAS,business_exits_count,abs_ste_6_tas.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2022,4612.0,TAS,business_exits_count,abs_ste_6_tas.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2023,5352.0,TAS,business_exits_count,abs_ste_6_tas.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2024,5247.0,TAS,business_exits_count,abs_ste_6_tas.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2020,118.0,TAS,utilities_businesses_count,abs_ste_6_tas.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2021,121.0,TAS,utilities_businesses_count,abs_ste_6_tas.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2022,127.0,TAS,utilities_businesses_count,abs_ste_6_tas.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2023,137.0,TAS,utilities_businesses_count,abs_ste_6_tas.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2024,136.0,TAS,utilities_businesses_count,abs_ste_6_tas.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2020,39285.0,TAS,total_businesses_count,abs_ste_6_tas.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2021,40723.0,TAS,total_businesses_count,abs_ste_6_tas.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2022,42413.0,TAS,total_businesses_count,abs_ste_6_tas.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2023,43423.0,TAS,total_businesses_count,abs_ste_6_tas.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2024,44029.0,TAS,total_businesses_count,abs_ste_6_tas.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2018,45923.0,TAS,median_employee_income_aud,abs_ste_6_tas.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2019,47525.0,TAS,median_employee_income_aud,abs_ste_6_tas.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2020,48915.0,TAS,median_employee_income_aud,abs_ste_6_tas.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2021,50875.0,TAS,median_employee_income_aud,abs_ste_6_tas.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2022,52999.0,TAS,median_employee_income_aud,abs_ste_6_tas.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2018,51793.0,TAS,mean_employee_income_aud,abs_ste_6_tas.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2019,53375.0,TAS,mean_employee_income_aud,abs_ste_6_tas.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2020,55209.0,TAS,mean_employee_income_aud,abs_ste_6_tas.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2021,57349.0,TAS,mean_employee_income_aud,abs_ste_6_tas.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2022,59536.0,TAS,mean_employee_income_aud,abs_ste_6_tas.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2018,13372.7,TAS,total_employee_income_million_aud,abs_ste_6_tas.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2019,14235.1,TAS,total_employee_income_million_aud,abs_ste_6_tas.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2020,14979.7,TAS,total_employee_income_million_aud,abs_ste_6_tas.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2021,16002.8,TAS,total_employee_income_million_aud,abs_ste_6_tas.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2022,17330.3,TAS,total_employee_income_million_aud,abs_ste_6_tas.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2018,258195.0,TAS,employee_income_earners_count,abs_ste_6_tas.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2019,266706.0,TAS,employee_income_earners_count,abs_ste_6_tas.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2020,271325.0,TAS,employee_income_earners_count,abs_ste_6_tas.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2021,279043.0,TAS,employee_income_earners_count,abs_ste_6_tas.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2022,291089.0,TAS,employee_income_earners_count,abs_ste_6_tas.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2021,101687.0,VIC,business_entries_count,abs_ste_2_vic.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2022,142020.0,VIC,business_entries_count,abs_ste_2_vic.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2023,114589.0,VIC,business_entries_count,abs_ste_2_vic.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2024,124588.0,VIC,business_entries_count,abs_ste_2_vic.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2021,76482.0,VIC,business_exits_count,abs_ste_2_vic.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2022,83288.0,VIC,business_exits_count,abs_ste_2_vic.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2023,120931.0,VIC,business_exits_count,abs_ste_2_vic.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2024,105612.0,VIC,business_exits_count,abs_ste_2_vic.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2020,2129.0,VIC,utilities_businesses_count,abs_ste_2_vic.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2021,2234.0,VIC,utilities_businesses_count,abs_ste_2_vic.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2022,2320.0,VIC,utilities_businesses_count,abs_ste_2_vic.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2023,2426.0,VIC,utilities_businesses_count,abs_ste_2_vic.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2024,2489.0,VIC,utilities_businesses_count,abs_ste_2_vic.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2020,630992.0,VIC,total_businesses_count,abs_ste_2_vic.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2021,655507.0,VIC,total_businesses_count,abs_ste_2_vic.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2022,713211.0,VIC,total_businesses_count,abs_ste_2_vic.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2023,719367.0,VIC,total_businesses_count,abs_ste_2_vic.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2024,737915.0,VIC,total_businesses_count,abs_ste_2_vic.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2018,49890.0,VIC,median_employee_income_aud,abs_ste_2_vic.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2019,51487.0,VIC,median_employee_income_aud,abs_ste_2_vic.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2020,53010.0,VIC,median_employee_income_aud,abs_ste_2_vic.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2021,55526.0,VIC,median_employee_income_aud,abs_ste_2_vic.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2022,57653.0,VIC,median_employee_income_aud,abs_ste_2_vic.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2018,60456.0,VIC,mean_employee_income_aud,abs_ste_2_vic.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2019,62207.0,VIC,mean_employee_income_aud,abs_ste_2_vic.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2020,64331.0,VIC,mean_employee_income_aud,abs_ste_2_vic.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2021,67299.0,VIC,mean_employee_income_aud,abs_ste_2_vic.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2022,70089.0,VIC,mean_employee_income_aud,abs_ste_2_vic.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2018,196930.1,VIC,total_employee_income_million_aud,abs_ste_2_vic.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2019,209313.2,VIC,total_employee_income_million_aud,abs_ste_2_vic.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2020,219836.3,VIC,total_employee_income_million_aud,abs_ste_2_vic.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2021,228749.9,VIC,total_employee_income_million_aud,abs_ste_2_vic.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2022,248496.2,VIC,total_employee_income_million_aud,abs_ste_2_vic.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2018,3257440.0,VIC,employee_income_earners_count,abs_ste_2_vic.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2019,3364814.0,VIC,employee_income_earners_count,abs_ste_2_vic.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2020,3417277.0,VIC,employee_income_earners_count,abs_ste_2_vic.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2021,3398995.0,VIC,employee_income_earners_count,abs_ste_2_vic.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2022,3545413.0,VIC,employee_income_earners_count,abs_ste_2_vic.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2021,33109.0,WA,business_entries_count,abs_ste_5_wa.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2022,38295.0,WA,business_entries_count,abs_ste_5_wa.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2023,37305.0,WA,business_entries_count,abs_ste_5_wa.csv
+CABEE_10,Business entries - year ended 30 June,Total number of business entries,2024,40902.0,WA,business_entries_count,abs_ste_5_wa.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2021,25615.0,WA,business_exits_count,abs_ste_5_wa.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2022,28617.0,WA,business_exits_count,abs_ste_5_wa.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2023,33251.0,WA,business_exits_count,abs_ste_5_wa.csv
+CABEE_15,Business exits - year ended 30 June,Total number of business exits,2024,32653.0,WA,business_exits_count,abs_ste_5_wa.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2020,771.0,WA,utilities_businesses_count,abs_ste_5_wa.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2021,791.0,WA,utilities_businesses_count,abs_ste_5_wa.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2022,785.0,WA,utilities_businesses_count,abs_ste_5_wa.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2023,826.0,WA,utilities_businesses_count,abs_ste_5_wa.csv
+CABEE_23,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2024,859.0,WA,utilities_businesses_count,abs_ste_5_wa.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2020,222944.0,WA,total_businesses_count,abs_ste_5_wa.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2021,230280.0,WA,total_businesses_count,abs_ste_5_wa.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2022,239858.0,WA,total_businesses_count,abs_ste_5_wa.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2023,246673.0,WA,total_businesses_count,abs_ste_5_wa.csv
+CABEE_5,Number of businesses - at 30 June,Total number of businesses,2024,255396.0,WA,total_businesses_count,abs_ste_5_wa.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2018,53769.0,WA,median_employee_income_aud,abs_ste_5_wa.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2019,55094.0,WA,median_employee_income_aud,abs_ste_5_wa.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2020,56664.0,WA,median_employee_income_aud,abs_ste_5_wa.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2021,59700.0,WA,median_employee_income_aud,abs_ste_5_wa.csv
+INCOME_2,Personal income in Australia - year ended 30 June,Median employee income ($),2022,61638.0,WA,median_employee_income_aud,abs_ste_5_wa.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2018,66798.0,WA,mean_employee_income_aud,abs_ste_5_wa.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2019,68090.0,WA,mean_employee_income_aud,abs_ste_5_wa.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2020,69914.0,WA,mean_employee_income_aud,abs_ste_5_wa.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2021,73026.0,WA,mean_employee_income_aud,abs_ste_5_wa.csv
+INCOME_21,Personal income in Australia - year ended 30 June,Mean employee income ($),2022,75363.0,WA,mean_employee_income_aud,abs_ste_5_wa.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2018,90269.2,WA,total_employee_income_million_aud,abs_ste_5_wa.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2019,93628.9,WA,total_employee_income_million_aud,abs_ste_5_wa.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2020,97850.9,WA,total_employee_income_million_aud,abs_ste_5_wa.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2021,104866.0,WA,total_employee_income_million_aud,abs_ste_5_wa.csv
+INCOME_3,Personal income in Australia - year ended 30 June,Total employee income ($m),2022,115113.1,WA,total_employee_income_million_aud,abs_ste_5_wa.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2018,1351385.0,WA,employee_income_earners_count,abs_ste_5_wa.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2019,1375066.0,WA,employee_income_earners_count,abs_ste_5_wa.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2020,1399583.0,WA,employee_income_earners_count,abs_ste_5_wa.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2021,1436018.0,WA,employee_income_earners_count,abs_ste_5_wa.csv
+INCOME_4,Personal income in Australia - year ended 30 June,Employee income earners (no.),2022,1527447.0,WA,employee_income_earners_count,abs_ste_5_wa.csv

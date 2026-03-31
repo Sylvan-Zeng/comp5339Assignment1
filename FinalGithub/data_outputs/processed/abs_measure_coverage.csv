@@ -1,0 +1,9 @@
+measure_code,measure_name,parent_description,description,first_available_year,last_available_year,available_year_count,state_count,expected_year_count,coverage_ratio
+CABEE_10,business_entries_count,Business entries - year ended 30 June,Total number of business entries,2021,2024,4,8,10,0.4
+CABEE_15,business_exits_count,Business exits - year ended 30 June,Total number of business exits,2021,2024,4,8,10,0.4
+CABEE_23,utilities_businesses_count,Number of businesses by industry - at 30 June,"Electricity, gas, water and waste services (no.)",2020,2024,5,8,10,0.5
+CABEE_5,total_businesses_count,Number of businesses - at 30 June,Total number of businesses,2020,2024,5,8,10,0.5
+INCOME_2,median_employee_income_aud,Personal income in Australia - year ended 30 June,Median employee income ($),2018,2022,5,8,10,0.5
+INCOME_21,mean_employee_income_aud,Personal income in Australia - year ended 30 June,Mean employee income ($),2018,2022,5,8,10,0.5
+INCOME_3,total_employee_income_million_aud,Personal income in Australia - year ended 30 June,Total employee income ($m),2018,2022,5,8,10,0.5
+INCOME_4,employee_income_earners_count,Personal income in Australia - year ended 30 June,Employee income earners (no.),2018,2022,5,8,10,0.5
