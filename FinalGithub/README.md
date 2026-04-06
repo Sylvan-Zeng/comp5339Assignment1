@@ -106,3 +106,25 @@ Two known data limitations remain:
 - If want to inspect station-level renewable matching, start from `consolidated_facility_year.csv`
 - If want aggregated analysis, start from `integrated_state_year.csv`
 - If want to rerun the pipeline, use `assignment1_steps_1_2.py`
+
+
+# COMP5339 Assignment 1: Step 3
+## This extension continues from the outputs of Step 1–2.
+The workflow is:
+
+load consolidated_facility_year.csv from data_outputs/processed/
+extract unique facility names and states for geocoding
+perform geocoding using Google Geocoding API with OpenStreetMap fallback
+generate a geocoded lookup table
+update the DuckDB database with the geocoded facility table
+
+The following files are generated:
+
+facility_geocoded.csv: unique facility-level latitude and longitude lookup table
+assignment1_steps_3.duckdb: updated database with coordinates added to consolidated_facility_year
+
+Differences from Step 1–2 outputs:
+
+consolidated_facility_year now includes latitude and longitude
+all other tables remain unchanged
+
