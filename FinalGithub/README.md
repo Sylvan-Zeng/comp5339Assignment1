@@ -128,3 +128,145 @@ Differences from Step 1–2 outputs:
 consolidated_facility_year now includes latitude and longitude
 all other tables remain unchanged
 
+
+# COMP5339 Assignment 1 – Task 4
+
+## Data Transformation and Storage (DuckDB)
+
+### 1. Overview
+
+This notebook implements **Task 4: Data Transformation and Storage** based on the outputs from Task 1–3.
+The goal is to transform the processed datasets into a structured database schema and store them in **DuckDB** for analysis and visualisation.
+
+All input datasets are read from:
+
+```
+./data_outputs/processed/
+```
+
+The final database file generated is:
+
+```
+assignment1_task4.duckdb
+```
+
+---
+
+### 2. Input Data
+
+The following files are used as inputs:
+
+* `nger_facility_clean.csv`
+* `cer_power_stations_clean.csv`
+* `facility_geocoded.csv`
+* `abs_state_measures_clean.csv`
+* `abs_measure_coverage.csv`
+* `integrated_state_year.csv`
+
+These datasets are outputs from Task 1–3, including cleaned, integrated, and augmented data.
+
+---
+
+### 3. Tools and Technologies
+
+* Python 3.10+
+* DuckDB
+* Pandas
+* (Optional) DuckDB Spatial Extension
+
+---
+
+### 4. How to Run
+
+#### Step 1: Install dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+#### Step 2: Open the notebook
+
+```bash
+jupyter notebook task4_duckdb_transformation.ipynb
+```
+
+#### Step 3: Run all cells
+
+* The notebook will:
+
+  * Load all CSV files
+  * Create DuckDB database
+  * Build schema (dimension + fact tables)
+  * Insert transformed data
+  * Create views for analysis
+
+---
+
+### 5. Database Design
+
+The database follows a **star schema design**, including:
+
+* **Dimension Tables**
+
+  * State
+  * Reporting Period
+  * ABS Measures
+  * Reporting Entity
+  * Facility
+  * Power Station
+
+* **Fact Tables**
+
+  * NGER Facility-Year data
+  * Facility Location (with coordinates)
+  * ABS State Measures
+  * State-Year Summary
+
+* **Bridge Table**
+
+  * Facility ↔ Power Station matching
+
+* **Views**
+
+  * State-Year Dashboard
+  * Facility Emissions Map
+
+This design improves:
+
+* Data consistency
+* Query performance
+* Analytical flexibility
+
+---
+
+### 6. Spatial Support
+
+The notebook attempts to install and load DuckDB spatial extension:
+
+```sql
+INSTALL spatial;
+LOAD spatial;
+```
+
+If not supported, the database will still work using latitude and longitude fields.
+
+---
+
+### 7. Outputs
+
+After running the notebook, you will get:
+
+* `assignment1_task4.duckdb`
+* Structured relational schema
+* Analytical views ready for visualisation
+
+---
+
+### 8. Notes
+
+* All transformations are reproducible from the notebook
+* No manual editing is required
+* The schema is designed to support **Assignment 2 spatial queries**
+
+---
+
